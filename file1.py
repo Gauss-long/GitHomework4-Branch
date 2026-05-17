@@ -1,1 +1,1 @@
-B3 branch different modification for file1 
+Merged modification from B3 and C4 for file1
